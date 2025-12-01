@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import "./home.css";
+import "./Home.css";
 import logoWeaver from "./assets/WEAVER_logo.png";
 import sitingHornet from "./assets/siting-hornet.gif";
 import cinemaHornet from "./assets/hornet-cinema.png";
